@@ -1,0 +1,6 @@
+*.lock
+.env
+parseToModel.py
+venv
+__pycache__
+*.json

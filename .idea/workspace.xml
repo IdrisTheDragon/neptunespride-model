@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c29697df-efbb-410e-a4e6-e00cd53b3e9f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1aFzj3UT1Cokrgzga2QFRzDt1Ox" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.test">
+    <configuration name="parseToModel" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="neptunes pride" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/parseToModel.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="neptunes pride" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.parseToModel" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c29697df-efbb-410e-a4e6-e00cd53b3e9f" name="Default Changelist" comment="" />
+      <created>1586346261214</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586346261214</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="2539" height="394" key="GridCell.Tab.0.bottom" timestamp="1586351229311">
+      <screen x="1080" y="286" width="2560" height="1440" />
+    </state>
+    <state width="2539" height="394" key="GridCell.Tab.0.bottom/1080.286.2560.1440/0.0.1080.1686@1080.286.2560.1440" timestamp="1586351229311" />
+    <state width="2539" height="394" key="GridCell.Tab.0.center" timestamp="1586351229311">
+      <screen x="1080" y="286" width="2560" height="1440" />
+    </state>
+    <state width="2539" height="394" key="GridCell.Tab.0.center/1080.286.2560.1440/0.0.1080.1686@1080.286.2560.1440" timestamp="1586351229311" />
+    <state width="2539" height="394" key="GridCell.Tab.0.left" timestamp="1586351229311">
+      <screen x="1080" y="286" width="2560" height="1440" />
+    </state>
+    <state width="2539" height="394" key="GridCell.Tab.0.left/1080.286.2560.1440/0.0.1080.1686@1080.286.2560.1440" timestamp="1586351229311" />
+    <state width="2539" height="394" key="GridCell.Tab.0.right" timestamp="1586351229311">
+      <screen x="1080" y="286" width="2560" height="1440" />
+    </state>
+    <state width="2539" height="394" key="GridCell.Tab.0.right/1080.286.2560.1440/0.0.1080.1686@1080.286.2560.1440" timestamp="1586351229311" />
+    <state x="1864" y="621" key="SettingsEditor" timestamp="1586350762810">
+      <screen x="1080" y="286" width="2560" height="1440" />
+    </state>
+    <state x="1864" y="621" key="SettingsEditor/1080.286.2560.1440/0.0.1080.1686@1080.286.2560.1440" timestamp="1586350762810" />
+    <state x="2023" y="605" width="672" height="678" key="search.everywhere.popup" timestamp="1586346384353">
+      <screen x="1080" y="286" width="2560" height="1440" />
+    </state>
+    <state x="2023" y="605" width="672" height="678" key="search.everywhere.popup/1080.286.2560.1440/0.0.1080.1686@1080.286.2560.1440" timestamp="1586346384353" />
+    <state x="2085" y="881" width="540" height="208" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1586351385127">
+      <screen x="1080" y="286" width="2560" height="1440" />
+    </state>
+    <state x="2085" y="881" width="540" height="208" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/1080.286.2560.1440/0.0.1080.1686@1080.286.2560.1440" timestamp="1586351385127" />
+  </component>
+</project>
